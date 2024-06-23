@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://cdnb.artstation.com/p/assets/video_clips/images/037/609/487/large/kenze-wee-thumb.jpg?1620831262"  />
+  <img height="400" width="750" src="https://cdnb.artstation.com/p/assets/video_clips/images/037/609/487/large/kenze-wee-thumb.jpg?1620831262"  />
 </div>
 
 ###
