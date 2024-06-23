@@ -44,7 +44,7 @@ VKPlay, а также разработать небольшой проект п�
 <h3 align="left">📺 Последние видео на YouTube</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Делаю кликер, применяя НЕЙРОСЕТЬ [DEVLOG #1]](https://i.ytimg.com/an_webp/Cb_Y4LBO4MQ/mqdefault_6s.webp?du=3000&sqp=CMj-4LMG&rs=AOn4CLCnbDqu8nA-ReY1_5UPMpeUkoNdew)](https://www.youtube.com/watch?v=Cb_Y4LBO4MQ&t=1317s)
+[![Делаю кликер, применяя НЕЙРОСЕТЬ [DEVLOG #1]](https://i9.ytimg.com/vi_webp/Cb_Y4LBO4MQ/mqdefault.webp?v=66716e0c&sqp=CJSw4bMG&rs=AOn4CLBru-w7YWZpO4BzOMiq_4C-m_K3cw)](https://www.youtube.com/watch?v=Cb_Y4LBO4MQ&t=1317s)
 <!-- END YOUTUBE-CARDS -->
 
 ###
