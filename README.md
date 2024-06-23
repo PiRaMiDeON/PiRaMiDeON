@@ -44,7 +44,7 @@ VKPlay, а также разработать небольшой проект п�
 <h3 align="left">📺 Последние видео на YouTube</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Делаю кликер, применяя НЕЙРОСЕТЬ [DEVLOG #1]](https://ytcards.demolab.com/?id=9nr46VAYK9E&title=%D0%9A%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C+Telegram+%D0%B1%D0%BE%D1%82%D0%B0+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8F+pm2%3F&lang=en&timestamp=1719136895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Как запустить Telegram бота используя pm2?")](https://www.youtube.com/watch?v=Cb_Y4LBO4MQ&t=1317s)
+[![Делаю кликер, применяя НЕЙРОСЕТЬ [DEVLOG #1]](https://i.ytimg.com/an_webp/Cb_Y4LBO4MQ/mqdefault_6s.webp?du=3000&sqp=CMj-4LMG&rs=AOn4CLCnbDqu8nA-ReY1_5UPMpeUkoNdew)](https://www.youtube.com/watch?v=Cb_Y4LBO4MQ&t=1317s)
 <!-- END YOUTUBE-CARDS -->
 
 ###
