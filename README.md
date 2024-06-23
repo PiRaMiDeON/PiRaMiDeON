@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" width="900" src="https://64.media.tumblr.com/12a152684fd874af61d59e16084a0888/tumblr_p7kvb8Ymoi1qhttpto2_500.gif"  />
+  <img height="400" width="900" src="https://otkritkis.com/wp-content/uploads/2022/07/hrjf8.gif"  />
 </div>
 
 ###
