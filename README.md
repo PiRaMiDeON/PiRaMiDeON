@@ -1,7 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" width="900" src="https://i.pinimg.com/originals/26/67/e0/2667e0f188eafba8fc3a082d52137607.gif"  />
+  <img height="540" width="300" src="Assets/1.gif"  />
+  <img height="540" width="300" src="Assets/2.gif"  />
+  <img height="542" width="303" src="Assets/3.gif"  />
 </div>
 
 ###
