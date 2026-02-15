@@ -1,10 +1,10 @@
 <br clear="both">
 
-<div align="center">
-  <img height="540" width="300" src="Assets/1.gif"  />
-  <img height="540" width="300" src="Assets/2.gif"  />
-  <img height="542" width="303" src="Assets/3.gif"  />
-</div>
+<p align="center" style="white-space: nowrap;">
+  <img src="Assets/1.gif" width="300" />
+  <img src="Assets/2.gif" width="300" />
+  <img src="Assets/3.gif" width="303" />
+</p>
 
 ###
 
