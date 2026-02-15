@@ -11,9 +11,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCLhmrMQWBsReR1E_TcYlTAg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
   <a href="https://t.me/piramideon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
@@ -25,21 +22,12 @@
 
 ###
 
-<p align="left">Unity разработчик. Выпустил полноценный проект на игровую площадку 
-VKPlay, а также разработал несколько коммерческих проектов под iOS. Мой путь IT-самурая берет начало в далеком 2020 году (тогда я впервые открыл Unity и создал свой первый простенький проектик). Хорошо владею C# и немного знаю Python. Веду собственный канал на YouTube, где рассказываю зрителям, как разрабатываю тот или иной проект. Пробовал изучать C++ (в будущем обязательно вернусь к его изучению, так как в планах начать покорять Unreal Engine). Надеюсь, было приятно познакомится 😉</p>
+<p align="left">Unity разработчик. Мой путь IT-самурая берет начало в далеком 2021 году (тогда я впервые открыл Unity и создал свой первый простенький проектик). За это время я успел выпустить полноценный крупный проект на игровую площадку VKPlay. Овладеть C#, C++ и Python, хотя с недавним скачком развития нейросетей нужда в изучении языков, к сожалению (а, может, и к счастью), почти исчезла. Также за это время я разработал немало мобильных коммерческих проектов под Android и iOS. Успел поработать со сферами автоматизации и AI (интеграции чат-ботов, анализ данных, машинное обучение). А еще коснуться разработки в сфере дополненной реальности (AR) и поработать дизайнером для некоторых проектов (в числе которых как игры, так и обычные приложения). Надеюсь, было приятно познакомится 😉</p>
 
 ###
 <h3 align="left">📕 Мои статьи</h3>
 
 - [Кликер на Unity с использованием нейросети для генерации графики](https://habr.com/ru/articles/823684/)
-
-###
-
-<h3 align="left">📺 Последние видео на YouTube</h3>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-- [![Делаю кликер, применяя НЕЙРОСЕТЬ [DEVLOG #1]](https://i9.ytimg.com/vi_webp/Cb_Y4LBO4MQ/mqdefault.webp?v=66716e0c&sqp=CJSw4bMG&rs=AOn4CLBru-w7YWZpO4BzOMiq_4C-m_K3cw)](https://www.youtube.com/watch?v=Cb_Y4LBO4MQ&t=1317s)
-<!-- END YOUTUBE-CARDS -->
 
 ###
 
