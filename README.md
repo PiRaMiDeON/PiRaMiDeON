@@ -27,11 +27,6 @@
 <p align="left">Unity разработчик. Мой путь IT-самурая берет начало в далеком 2021 году (тогда я впервые открыл Unity и создал свой первый простенький проектик). За это время я успел выпустить полноценный крупный проект на игровую площадку VKPlay. Овладеть C#, C++ и Python, хотя с недавним скачком развития нейросетей нужда в изучении языков, к сожалению (а, может, и к счастью), почти исчезла. Также за это время я разработал немало мобильных коммерческих проектов под Android и iOS. Успел поработать со сферами автоматизации и AI (интеграции чат-ботов, анализ данных, машинное обучение). А еще коснуться разработки в сфере дополненной реальности (AR) и поработать дизайнером в некоторых проектах (в числе которых как игры, так и обычные приложения). Надеюсь, было приятно познакомится 😉</p>
 
 ###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Кликер на Unity с использованием нейросети для генерации графики](https://habr.com/ru/articles/823684/)
-
-###
 
 <p align="center">
  <img width="600" src="Assets/github-snake.svg" alt="snake"/>
@@ -50,7 +45,6 @@
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
 <a href="https://github.com/PiRaMiDeON" target="_blank"><img style="margin: 10px" src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/1200px-GitHub_Icon.svg.png" alt="Android" height="50" /></a>
-<a href="https://github.com/PiRaMiDeON" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Apple_Store_logo.svg/1200px-Apple_Store_logo.svg.png" alt="Android" height="50" /></a>
 </div>
 
 <h3 align="left">🛠 Доп. навыки:</h3>
